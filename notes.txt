@@ -1,0 +1,8 @@
+name: Reforestation Unit
+descr: A tower that spreads tree seads in a large area. The seeds have been engineered to return data in real-time, allowing the tower to automatically track trees that are dead and mark them to be removed
+
+required-textures
+  entity icon
+  remnants texture
+  base texture
+  base shadow
