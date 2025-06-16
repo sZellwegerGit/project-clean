@@ -27,7 +27,7 @@
 -- loop example
 	-- every_tick, check all registered trees of one registered planting tower
 
-	for tower in mod.storage.registered_towers:
-		for plant in tower.owned_plants:
-			if plant.tree_stage_index < 1:
-				plant.order_deconstruction(tower.force)
+	--for tower in mod.storage.registered_towers:
+	--	for plant in tower.owned_plants:
+	--		if plant.tree_stage_index < 1:
+	--			plant.order_deconstruction(tower.force)
